@@ -1,4 +1,4 @@
-/* 231 of 2343 CSS properties converted by rtl.daskhat.ir 
+/* 231 of 2341 CSS properties converted by rtl.daskhat.ir 
  These properties should be override originals. 
  just load rtl css file after original css file.*/ 
 
@@ -3275,19 +3275,8 @@ body{
     color: #fff;
 }
 
-@keyframes Gradients{
-    0%{
-        background-position: 0 50%;
-    }
-
-    50%{
-        background-position: 100% 50%;
-    }
-
-    100%{
-        background-position: 0 50%;
-    }
-
+</style> </b:if> <b:if cond='data:blog.pageType != &quot;index&quot;'><style type='text/css'> @keyframes Gradients{
+    0%: ;
 }
 
 .buttonar.arlinapage,.buttonar.arlinapage:hover{
@@ -3464,7 +3453,7 @@ button:focus,button:hover,input[type=&quot;button&quot;]:focus,input[type=&quot;
 
 }
 
-#HTML9{
+</style></b:if> <b:if cond='data:blog.pageType != &quot;index&quot;'> <style type='text/css'> #HTML9{
     display: none;
 }
 
@@ -4355,3 +4344,4 @@ h2.post-title a:hover,h1.post-title a:hover{
 #gcsengine{
     margin-top: -70px;
 }
+
