@@ -18,9 +18,3 @@ $(function(){$("a[href*=#]:not([href=#])").click(function(){if(location.pathname
 $(window).scroll(function(){$("#sliding_box").css($(this).scrollTop()>400?{left:"0px"}:{left:"-360px"})}),$(document).ready(function(){var i=$("#sliding_box"),s=$("#sliding_box-close"),o=$("#sliding_box-min"),l=$("#sliding_box-max");l.hide(),s.click(function(){i.css({left:"-350px"}),i.fadeOut("slow")}),o.click(function(){i.toggleClass("hide"),$(this).hide(),l.show()}),l.click(function(){i.toggleClass("hide"),$(this).hide(),o.show()})});
 //ADSbottom
 $(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#bl_banner&#39;).hide(90);});});
-<div id='fixedban' style='width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:999;-webkit-transform:translateZ(0);'>
-<div><a id='close-fixedban' onclick='document.getElementById(&apos;fixedban&apos;).style.display = &apos;none&apos;;' style='cursor:pointer;'><img alt='close' src='http://1.bp.blogspot.com/-_A83iDM6JYc/VhtxROLILrI/AAAAAAAADK4/aM4ikIA6aqI/s1600/btn_close.gif' title='close button' style='vertical-align:middle;'/></a></div>
-<div style='text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto'>
-<a href='#' title='Banner iklan disini'><img style='max-width:100%;height:auto;vertical-align:middle;' alt='Banner iklan disini' src='http://3.bp.blogspot.com/-9h86Fhn6zZU/VhtxRDTM4qI/AAAAAAAADK0/fQN3Z00kWwk/s1600/arlina-tea.png'/></a>
-</div>
-</div>
