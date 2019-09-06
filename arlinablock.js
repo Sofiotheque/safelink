@@ -16,5 +16,3 @@ jQuery(document).ready(function(){var o=220,r=600;jQuery(window).scroll(function
 $(function(){$("a[href*=#]:not([href=#])").click(function(){if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var t=$(this.hash);if(t=t.length?t:$("[name="+this.hash.slice(1)+"]"),t.length)return $("html,body").animate({scrollTop:t.offset().top},600),!1}})});
 // Slide bar Scroll
 $(window).scroll(function(){$("#sliding_box").css($(this).scrollTop()>400?{left:"0px"}:{left:"-360px"})}),$(document).ready(function(){var i=$("#sliding_box"),s=$("#sliding_box-close"),o=$("#sliding_box-min"),l=$("#sliding_box-max");l.hide(),s.click(function(){i.css({left:"-350px"}),i.fadeOut("slow")}),o.click(function(){i.toggleClass("hide"),$(this).hide(),l.show()}),l.click(function(){i.toggleClass("hide"),$(this).hide(),o.show()})});
-//ADSbottom
-$(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#bl_banner&#39;).hide(90);});});
