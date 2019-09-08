@@ -16,6 +16,8 @@ jQuery(document).ready(function(){var o=220,r=600;jQuery(window).scroll(function
 $(function(){$("a[href*=#]:not([href=#])").click(function(){if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var t=$(this.hash);if(t=t.length?t:$("[name="+this.hash.slice(1)+"]"),t.length)return $("html,body").animate({scrollTop:t.offset().top},600),!1}})});
 // Slide bar Scroll
 $(window).scroll(function(){$("#sliding_box").css($(this).scrollTop()>400?{left:"0px"}:{left:"-360px"})}),$(document).ready(function(){var i=$("#sliding_box"),s=$("#sliding_box-close"),o=$("#sliding_box-min"),l=$("#sliding_box-max");l.hide(),s.click(function(){i.css({left:"-350px"}),i.fadeOut("slow")}),o.click(function(){i.toggleClass("hide"),$(this).hide(),l.show()}),l.click(function(){i.toggleClass("hide"),$(this).hide(),o.show()})});
+//AudienceRun 600 300
+(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://d.audiencerun.com/c/c5yw5vocw2?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
 //AudienceRun Fix Footer
 (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://d.audiencerun.com/c/10e6tnh82i?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
 //AudienceRun Next Up
