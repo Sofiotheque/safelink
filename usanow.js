@@ -6,3 +6,5 @@
 (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://d.audiencerun.com/c/oq2p19561l?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
 //300x250 audiencerun
 (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://d.audiencerun.com/c/0t810pisfy?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
+//728x90 audiencerun
+(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://d.audiencerun.com/c/c0kjr5vtk5?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
