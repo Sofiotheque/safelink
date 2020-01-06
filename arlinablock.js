@@ -9,5 +9,3 @@ $(function(){$(".searchbutton").click(function(){$(this).toggleClass("active"),$
 //# sourceMappingURL=OneSignalSDK.js.map
 //Footer Fix audiencerun
 (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0]; a.src="https://d.audiencerun.com/c/10e6tnh82i?d"+(new Date).getTime()+"&r="; try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript"; a.async=!0;b.parentNode.insertBefore(a,b)})(); 
-//Header fixe audiencerun
-(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0]; a.src="https://d.audiencerun.com/c/lvxqkt0jw5?d"+(new Date).getTime()+"&r="; try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript"; a.async=!0;b.parentNode.insertBefore(a,b)})();
