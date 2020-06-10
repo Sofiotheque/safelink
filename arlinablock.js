@@ -1,5 +1,3 @@
-// Pop cash
-function downloadJSAtOnload(){var e=document.createElement("script");e.src="https://cdn.popcash.net/pop.js",document.body.appendChild(e)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
 // Facebook Messenger Chat
 /*1591784723,,JIT Construction: v1002227634,en_US*/
 /**
