@@ -210,8 +210,8 @@ $(document).ready(function(){"use strict";$(".megamenu > ul > li:has( > ul)").ad
 $(document).ready(function(){$(".fa-search").click(function(){$(".containersearch, .inputnui").toggleClass("active"),$("input[type='text']").focus()})});
 // Anti boom click
 function downloadJSAtOnload(){var e=document.createElement("script");e.src="https://cdn.jsdelivr.net/gh/Arlina-Design/phantom@master/antiboomclick.js",document.body.appendChild(e)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
-// Anti Inspect element
-!function t(){try{!function t(n){1===(""+n/n).length&&0!==n||function(){}.constructor("debugger")(),t(++n)}(0)}catch(n){setTimeout(t,5e3)}}();
+// Anti inspect element
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('(3(){(3 a(){8{(3 b(2){7((\'\'+(2/2)).6!==1||2%5===0){(3(){}).9(\'4\')()}c{4}b(++2)})(0)}d(e){g(a,f)}})()})();',17,17,'||i|function|debugger|20|length|if|try|constructor|||else|catch||5000|setTimeout'.split('|'),0,{}))
 //Search Button
 $(function(){$(".searchbutton").click(function(){$(this).toggleClass("active"),$(".search-form").slideToggle("fast")})});
 /*! Related Post Widget */
