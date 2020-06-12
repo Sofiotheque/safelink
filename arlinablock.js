@@ -1,5 +1,3 @@
-// Facebook Messenger Chat
-function downloadJSAtOnload(){var e=document.createElement("script");e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",document.body.appendChild(e)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
 // Mega menu by naminakiky.com
 $(document).ready(function(){"use strict";$(".megamenu > ul > li:has( > ul)").addClass("megamenu-dropdown-icon"),$(".megamenu > ul > li > ul:not(:has(ul))").addClass("normal-sub"),$(".megamenu > ul").before('<a href="#" class="megamenu-mobile"></a>'),$(".megamenu > ul > li").hover(function(e){$(window).width()>943&&($(this).children("ul").stop(!0,!1).fadeToggle(150),e.preventDefault())}),$(".megamenu > ul > li").click(function(){$(window).width()<=943&&$(this).children("ul").fadeToggle(150)}),$(".megamenu-mobile").click(function(e){$(".megamenu > ul").toggleClass("show-on-mobile"),e.preventDefault()})});
 $(document).ready(function(){$(".fa-search").click(function(){$(".containersearch, .inputnui").toggleClass("active"),$("input[type='text']").focus()})});
