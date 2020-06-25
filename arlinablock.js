@@ -38,7 +38,7 @@ function getwtabs(e) {for (var labelArr = eval(e.attr("data-label")), html = '<d
 // Slide In Sofiotheque Clickintext
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Bas de Page AD6media
-(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://63muxecdij.s.ad6media.fr/?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
+!function f(){var b=document.createElement("script");b.src="https://63muxecdij.s.ad6media.fr/?d="+(new Date).getTime()+"&r=";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Slide In AD6media
 var ad6_url = 'https://ajr8b0k5zy.s.ad6media.fr/?d=' + ((new Date()).getTime()) + '&r=';try {ad6_url += encodeURIComponent(top.document.referrer);} catch (e) {ad6_url += encodeURIComponent(document.referrer);}document.write('<scr' + 'ipt typ' + 'e="text/javas' + 'cript" src="' + ad6_url + '"></scr' + 'ipt>');
 // Site Under AD6media
