@@ -10,7 +10,6 @@ b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 $(document).ready(function(){
   jQuery(&#39;#BBeginner-Ads&#39;).appendTo(jQuery(&#39; a[name=&quot;more&quot;] &#39;));
     });
-function getCurrentYear(){var e=new Date;return e.getFullYear()}el=document.getElementById(&quot;current-year&quot;),el.innerHTML=getCurrentYear();
 // CSS
 function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
 loadCSS("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
