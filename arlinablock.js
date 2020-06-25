@@ -40,3 +40,5 @@ function getwtabs(e) {for (var labelArr = eval(e.attr("data-label")), html = '<d
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JMlGiAstOYYtg";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Slide In Sofiotheque Clickintext
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// Bas de Page AD6media
+(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="//63muxecdij.s.ad6media.fr/?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
