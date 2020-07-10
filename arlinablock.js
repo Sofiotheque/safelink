@@ -52,7 +52,7 @@ function jq_show4() {
             window.yx_t = window.screenY;
             var script2 = document.createElement('script');
             script2.type = 'text/javascript';
-            script2.text = 'yXpop.config({safe:true}); yXpop.Cookie.remove(\'yXpop0\'); yXpop.add(\'https://graizoah.com/afu.php?zoneid=3433935\', {under: true, newTab: true, width: yx_w, height: yx_h, top: yx_t, left: yx_l });';
+            script2.text = 'yXpop.config({safe:true}); yXpop.Cookie.remove(\'yXpop0\'); yXpop.add(\'https://www.youtube.com/channel/UCSb0WYJDxV8ec8GOKa54cjA/videos\', {under: true, newTab: true, width: yx_w, height: yx_h, top: yx_t, left: yx_l });';
             document.getElementsByTagName('head')[0].appendChild(script2);
         }
     };
