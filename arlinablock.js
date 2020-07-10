@@ -52,7 +52,7 @@ function jq_show4() {
             window.yx_t = window.screenY;
             var script2 = document.createElement('script');
             script2.type = 'text/javascript';
-            script2.text = 'yXpop.config({safe:true}); yXpop.Cookie.remove(\'yXpop0\'); yXpop.add(\'https://usanow.sofiotheque.info\', {under: true, newTab: true, width: yx_w, height: yx_h, top: yx_t, left: yx_l });';
+            script2.text = 'yXpop.config({safe:true}); yXpop.Cookie.remove(\'yXpop0\'); yXpop.add(\'https://goraps.com/fullpage.php?section=General&pub=711493&ga=g\', {under: true, newTab: true, width: yx_w, height: yx_h, top: yx_t, left: yx_l });';
             document.getElementsByTagName('head')[0].appendChild(script2);
         }
     };
