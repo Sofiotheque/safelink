@@ -47,12 +47,7 @@ function getwtabs(e) {for (var labelArr = eval(e.attr("data-label")), html = '<d
 document.body.append(a);document.body.style.overflow="hidden";var b=a.querySelectorAll("button");a.querySelector(".close");var d=a.querySelectorAll(".fixblock > div");for(a=0;a<b.length;a++)b[a].addEventListener("click",function(a){a.preventDefault();a=this.getAttribute("class").split(" ")[0];for(var c=0;c<d.length;c++)d[c].classList.remove("active"),b[c].classList.remove("active");b[a-1].classList.add("active");d[a-1].classList.add("active")})}var b=document.createElement("script");b.type="text/javascript";
 b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 //Featured Post
-var MONTH_FORMAT= ["January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December"];
-
-var NO_IMAGE = "http://3.bp.blogspot.com/-Yw8BIuvwoSQ/VsjkCIMoltI/AAAAAAAAC4c/s55PW6xEKn0/s1600-r/nth.png"; 
-var CAROUSEL_NUM = 6; 
-var node = document.createElement('script'); node.type = 'text/javascript'; node.async = true; node.src = 'https://rawgit.com/abdelalilebbihi/abdou_tech/master/gadget/slider_star1.js'; var runscript = document.getElementsByTagName('script')[0]; runscript.parentNode.insertBefore(node, runscript);
+!function f(){var b=document.createElement("script");b.src="https://rawgit.com/abdelalilebbihi/abdou_tech/master/gadget/slider_star1.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Share THis
 !function f(){var b=document.createElement("script");b.src="https://platform-api.sharethis.com/js/sharethis.js#property=5cc5bfc44b94860012b42cb8&product=inline-share-buttons";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Facbk Chat
