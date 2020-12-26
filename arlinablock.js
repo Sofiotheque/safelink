@@ -43,14 +43,4 @@ var _0x3666=['\x62\x47\x39\x6a\x59\x58\x52\x70\x62\x32\x34\x3d','\x61\x48\x4a\x6
 // Copy Text
 function nocopas(){var e=window.getSelection();pagelink=" Sumber : "+document.location.href,copytext=e+pagelink,newdiv=document.createElement("div"),newdiv.style.position="absolute",newdiv.style.left="-99999px",document.body.appendChild(newdiv),newdiv.innerHTML=copytext,e.selectAllChildren(newdiv),window.setTimeout(function(){document.body.removeChild(newdiv)},100)}document.addEventListener("copy",nocopas);
 // Call Disqus On Click by IGNIEL.COM
-    window.disqus_blogger_current_url = $('link[rel=canonical]').attr('href');
-    window.disqus_shortname = 'igniel'; // Ganti dengan shortname Disqus kamu
-    $('#ignielDisqus').on('click', function(){
-    $.ajax({
-        type: 'GET',
-        url: '//' + disqus_shortname + '.disqus.com/blogger_item.js',
-        dataType: 'script',
-        cache: true
-    });
-    $(this).fadeOut();
-    });
+function load_Comments(){var e=document.getElementById("disqusshow");e.style.display="none";var t="simplify-2019-free";!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://"+t+".disqus.com/embed.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()};
