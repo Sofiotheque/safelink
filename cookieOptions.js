@@ -1,0 +1,1 @@
+cookieOptions={msg:"Sofiotheque utilise les cookies de Google pour vous garantir la meilleure expérience sur notre site.",link:"/p/politique-de-confidentialite-nous.html",close:"Okay",learn:"En savoir plus!"};
