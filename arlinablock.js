@@ -50,3 +50,5 @@ function load_Comments(){var e=document.getElementById("disqusshow");e.style.dis
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SiteUnder Clickintext
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JM0EF1arO3N96";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// ProppelerAds PopUnder
+(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',3828344,document.body||document.documentElement)
