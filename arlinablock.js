@@ -45,8 +45,14 @@ function nocopas(){var e=window.getSelection();pagelink=" Source : "+document.lo
 // Call Disqus On Click by IGNIEL.COM
 function load_Comments(){var e=document.getElementById("disqusshow");e.style.display="none";var t="simplify-2019-free";!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://rawcdn.githack.com/Sofiotheque/safelink/346a4ae27195e6376f038510fc8520cce5c7ad8a/Comments.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()};
 // InText Clickintext
-!function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JMJCSp6XjSTww";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JMJCSp6XjSTww";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SlideIn Clickintext
-!function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SiteUnder Clickintext
-!function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JM0EF1arO3N96";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JM0EF1arO3N96";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// POP Moneytizer 
+!function f(){var b=document.createElement("script");b.src="https://ads.themoneytizer.com/s/gen.js?type=39";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.src="https://ads.themoneytizer.com/s/requestform.js?siteId=15596&formatId=39";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// Moneytizer 300X250
+!function f(){var b=document.createElement("script");b.src="https://ads.themoneytizer.com/s/gen.js?type=2";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.src="https://ads.themoneytizer.com/s/requestform.js?siteId=15596&formatId=2";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
