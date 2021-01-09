@@ -24,6 +24,8 @@ followByEmailText = '';
 for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){if(ads[i]){(adsbygoogle = window.adsbygoogle || []).push({});}}
 // CSS
 !function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://rawcdn.githack.com/Sofiotheque/safelink/b2b0edd449499ad938f7d3ebb72f86a24351fd82/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("iframe");b.async=!0;b.src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFormationmedical%2F&tabs&width=310&height=100&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1148902115190529";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("iframe")[0];e.parentNode.insertBefore(b,e)}();
 // Share THis
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://platform-api.sharethis.com/js/sharethis.js#property=5cc5bfc44b94860012b42cb8&product=inline-share-buttons";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
