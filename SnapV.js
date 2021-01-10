@@ -81,3 +81,5 @@ function load_Comments(){var e=document.getElementById("disqusshow");e.style.dis
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SiteUnder Clickintext
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JM0EF1arO3N96";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// Facebook JS
+!function f(){var b=document.createElement("iframe");b.async=!0;b.src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFormationmedical%2F&tabs&width=310&height=100&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1148902115190529";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("iframe")[0];e.parentNode.insertBefore(b,e)}();
