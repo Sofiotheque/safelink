@@ -69,5 +69,11 @@ function nocopas(){var e=window.getSelection();pagelink=" Source : "+document.lo
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JkRROFjzvy48S";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SlideIn Clickintext
 !function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/Jk5gFPe4ifG7v";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
-// Intext Clickintext
-!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JkzDFbCiWyCQX";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+/*
+ClickInText WebPush
+*/
+var version = '2.0.3';
+importScripts('https://tags.clickintext.net/webpushserviceworker.js');
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/Uw8lVBDOVddYp";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// SiteUnder Clickintext
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JMUtjLqPs9Idm";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
