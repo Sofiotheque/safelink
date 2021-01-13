@@ -88,14 +88,14 @@ var Arlina={init:function(n){this.run(n),document.cookie="nct=0;"},readData:func
 function load_Comments(){var e=document.getElementById("disqusshow");e.style.display="none";var t="simplify-2019-free";!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://rawcdn.githack.com/Sofiotheque/safelink/346a4ae27195e6376f038510fc8520cce5c7ad8a/Comments.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()};
 // Google Analytics
 function deferGoogleJS() { 
-var d = document.createElement("script"); d.src = "https://www.googletagmanager.com/gtag/js?id=UA-119672153-4", document.body.appendChild(d) } window.addEventListener ? window.addEventListener("load", deferGoogleJS, !1) : window.attachEvent ? window.attachEvent("onload", deferGoogleJS) : window.onload = deferGoogleJS; window.dataLayer = window.dataLayer || [];
-function gtag() { dataLayer.push(arguments); } 
+var d = document.createElement("script"); 
+d.src = "https://www.googletagmanager.com/gtag/js?id=UA-119672153-4", 
+document.body.appendChild(d) } 
+window.addEventListener ? window.addEventListener("load", deferGoogleJS, !1) : window.attachEvent ? window.attachEvent("onload", deferGoogleJS) : window.onload = deferGoogleJS; 
+window.dataLayer = window.dataLayer || [];
+function gtag() { 
+dataLayer.push(arguments); } 
 gtag('js', new Date()); 
 gtag('config', 'UA-119672153-4');
-(function(i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); i.initAnalytics = function() { a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) } })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-119672153-4'); ga('send', 'pageview');
-function atOnload() { initAnalytics(); } 
-if (window.addEventListener) window.addEventListener("load", atOnload, false); 
-else if (window.attachEvent) window.attachEvent("onload", atOnload); 
-else window.onload = atOnload;
 // Facebook JS
 !function f(){var b=document.createElement("iframe");b.async=!0;b.src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFormationmedical%2F&tabs&width=310&height=100&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1148902115190529";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("iframe")[0];e.parentNode.insertBefore(b,e)}();
