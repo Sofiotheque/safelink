@@ -243,7 +243,7 @@ for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){
 // Share THis
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://platform-api.sharethis.com/js/sharethis.js#property=5cc5bfc44b94860012b42cb8&product=inline-share-buttons";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SnapV JS
-!function f(){var b=document.createElement("script");b.src="https://rawcdn.githack.com/Sofiotheque/safelink/56cfb0e0f42b6ee5bef90d26e913480c66ad3fe5/SnapV.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://rawcdn.githack.com/Sofiotheque/safelink/56cfb0e0f42b6ee5bef90d26e913480c66ad3fe5/SnapV.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Call Disqus On Click by IGNIEL.COM
 function load_Comments(){var e=document.getElementById("disqusshow");e.style.display="none";var t="simplify-2019-free";!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://rawcdn.githack.com/Sofiotheque/safelink/346a4ae27195e6376f038510fc8520cce5c7ad8a/Comments.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()};
 // InText Clickintext
