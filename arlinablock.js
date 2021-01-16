@@ -1,7 +1,7 @@
 // DFP
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
-// No lazy adsense
-!function f(){var b=document.createElement("script");b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// AdSense
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){if(ads[i]){(adsbygoogle = window.adsbygoogle || []).push({});}}
 // CSS
 !function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://rawcdn.githack.com/Sofiotheque/safelink/954365a811ee46a401700e1e50978cd3cc543da3/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
