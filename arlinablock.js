@@ -1,5 +1,5 @@
 // AdSense
-!function f(){var b=document.createElement("script");b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3943752135480739";b.crossorigin="anonymous";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){if(ads[i]){(adsbygoogle = window.adsbygoogle || []).push({});}}
 // CSS
 !function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://rawcdn.githack.com/Sofiotheque/safelink/e79601a5201b7be49ba118dcd21693ac9f2d28d2/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
