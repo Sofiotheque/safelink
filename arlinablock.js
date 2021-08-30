@@ -6,10 +6,6 @@ for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){
 !function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // SnapV4
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://rawcdn.githack.com/Sofiotheque/safelink/164be5d0b940045bdcf5969cdc630a0ccd6f3024/SnapV.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
-// In-Text
-!function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JMJCSp6XjSTww";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
-// Slide In
-!function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Share THis
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://platform-api.sharethis.com/js/sharethis.js#property=5cc5bfc44b94860012b42cb8&product=inline-share-buttons";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
@@ -22,3 +18,7 @@ v86213bed48dc344c9e5ccf70162c5fff=[ function(vca97b68af07e029f4640ed675e4706dc){
 (function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.async=1;js.src = "https://cdn.webpushr.com/app.min.js";
 fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
 webpushr('setup',{'key':'BKQi-NfapA8nMqU7B1B5Jx5P7aRg7fLjvGZFM8B_g72teN6r4ru_3pFV3tGH3oVqsF4qLcaATsDuKZpnG0osbRs', 'integration':'popup'  });
+// In-Text
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JMJCSp6XjSTww";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// Slide In
+!function f(){var b=document.createElement("script");b.src="https://tags.clickintext.net/JDvJOGOnQ3GVU";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
