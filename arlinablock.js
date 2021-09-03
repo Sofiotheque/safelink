@@ -3,7 +3,7 @@
 // AdSense
 for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){if(ads[i]){(adsbygoogle = window.adsbygoogle || []).push({});}}
 // CSS
-!function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://rawcdn.githack.com/Sofiotheque/safelink/e79601a5201b7be49ba118dcd21693ac9f2d28d2/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://rawcdn.githack.com/Sofiotheque/safelink/a4dede2c844cbcf99c8736b3205ecf0d332a20d5/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 !function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Anti AdBlock
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.jsdelivr.net/gh/Arlina-Design/quasar@master/arlinablock.js";b.crossorigin="anonymous";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
