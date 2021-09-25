@@ -65,7 +65,7 @@
 .firsttechinfoar:hover span.title{left:40px;opacity:0}
 .firsttechinfoar:hover span.title-hover{opacity:1;left:40px}
 .firsttechinfoar span.circle{display:block;background-color:seagreen;color:#fff;position:absolute;float:left;margin:5px;line-height:30px;height:30px;width:30px;top:0;left:0;transition:.5s;border-radius:50%}
-.firsttechinfoar span.title,.firsttechinfoar span.title-hover{position:absolute;left:90px;text-align:center;margin:0 auto;font-size:16px;font-weight:700;color:#fdfdfd;transition:.5s}
+.firsttechinfoar span.title,.firsttechinfoar span.title-hover{position:absolute;left:90px;text-align:center;margin:0 auto;font-size:16px;font-weight:700;color:seagreen;transition:.5s}
 .firsttechinfoar span.title-hover{left:80px;opacity:0} 
 .firsttechinfoar span.title-hover{color:#fff} 
 .firsttechinfoar1{position:relative;display:inline-block;height:50px;width:200px;line-height:50px;padding:0;border-radius:50px;background:#fdfdfd;border:2px solid blue;margin:10px;transition:.5s} 
