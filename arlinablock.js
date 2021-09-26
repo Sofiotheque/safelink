@@ -1,3 +1,5 @@
+// CSS Style
+!function f(){var b=document.createElement("link");b.rel="stylesheet";b.async=!0;b.href="https://rawcdn.githack.com/Sofiotheque/safelink/76ec3531076514ad531ac9ab8991e8676c642b97/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Share THis
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://platform-api.sharethis.com/js/sharethis.js#property=5cc5bfc44b94860012b42cb8&product=inline-share-buttons";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 // Ads inMiddle
