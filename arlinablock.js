@@ -1,5 +1,5 @@
 // CSS Style
-!function f(){var b=document.createElement("link");b.rel="stylesheet";b.href="https://rawcdn.githack.com/Sofiotheque/safelink/3f81c08b3acf2f0d7c2cc4f2ba3cbf498046a7b6/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("link");b.rel="scoped";b.rel="stylesheet";b.href="https://rawcdn.githack.com/Sofiotheque/safelink/3f81c08b3acf2f0d7c2cc4f2ba3cbf498046a7b6/Ubuntu.css";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 
 function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
 loadCSS("");loadCSS("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css");loadCSS("https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css");
