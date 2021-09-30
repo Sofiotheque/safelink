@@ -6,6 +6,30 @@
 /* Page Navigation */ #siki-page-number{background-color:#00aeef;text-align:center;line-height:60px;color:#fff;font-size:25px;border-radius:3px}#siki_next,#siki_prev{background:#fff;height:60px;display:inline-block;padding:0 10px;text-align:center}#siki_next{float:right;border-left:5px solid #242424;border-radius:3px 0 0 3px}#siki_prev{float:left;border-right:5px solid #242424;border-radius:0 3px 3px 0} .siki-next-prev a{display:block}.siki-next-prev span{font-size:50px;color:#444} #siki_next span:nth-child(2){float:right;line-height:56px;font-size:18px;font-weight:700;margin-right:5px} #siki_next span:nth-child(1){float:right;line-height:60px} #siki_prev span:nth-child(2){float:left;line-height:56px;font-size:18px;font-weight:700;margin-left:5px} #siki_prev span:nth-child(1){float:left;line-height:60px}.siki-message{text-align:center;padding:10px 0 5px;color:#000}
 /* Fancybox Image */ @media screen and (max-width:640px) {body .fancybox-slide--image{overflow-y:scroll}}
 
+*{padding:0;margin:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-box-sizing:border-box}
+a,a:link,a:visited{text-decoration:none;transition:all .3s}
+button,input[type="button"],input[type="reset"],input[type="submit"],.button{border:0;color:#fff;cursor:pointer;font-size:14px;font-weight:400;padding:12px 16px;white-space:normal;width:auto;border-radius:3px;outline:0}button:focus,button:hover,input[type="button"]:focus,input[type="button"]:hover,input[type="reset"]:focus,input[type="reset"]:hover,input[type="submit"]:focus,input[type="submit"]:hover,.button:focus,.button:hover{color:#fff}
+#recentpostnav{border:1px solid #585858;width:100%;margin:0 auto}
+#recentpostsae{margin:0}
+#recentpostsae .recentpostel{width:48.9%;background:#fff;display:inline-block;margin:0 20px 10px 0;padding:15px;overflow:hidden;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostsae .recentpostel:nth-child(even){margin:0 0 10px 0}
+#recentpostsae .recentpostel img{background:#ecf0f1;padding:0;float:left;margin:0;margin-right:13px;width:72px}
+#recentpostsae .recentpostel h6,.recentpostel h6 a{text-decoration:none;font-size:14px;font-weight:400;margin:0;color:#000}
+#recentpostsae .recentpostel:hover{background-color:#fefefe}
+#recentpostsae .recentpostel p{font-size:12px;text-align:left;color:#555;line-height:normal;margin:5px 0}
+#recentpostload{letter-spacing:-10px;text-align:center;background:transparent url(https://2.bp.blogspot.com/-GeeSB564W-o/Wum3zpg8qNI/AAAAAAAAGmM/aRoomVJFtSQfUoAJrRjD6h1wTSU8J8DUQCLcBGAs/s1600/ellipsis-preloader.gif) no-repeat 50% 50%;height:470px}
+#recentpostnavfeed{display:table;padding:5px 10px 5px 0;text-align:left;margin:15px auto}
+#recentpostnavfeed a{color:#141414;font-size:12px;font-weight:400;display:block;padding:5px 10px}
+#recentpostnavfeed span{padding:0;cursor:pointer;transition:all .3s}
+#recentpostnavfeed .next,#recentpostnavfeed .previous{position:relative;overflow:hidden;display:inline-block;background:#fff;color:#222;padding:10px 16px;font-size:1rem;border-radius:99em;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostnavfeed .next{float:right;margin:0 0 0 10px}
+#recentpostnavfeed .previous{float:left;margin:0 10px 0 0}
+#recentpostnavfeed .home{text-align:center;display:table;background:#fff;color:#222;font-size:1rem;float:none;padding:10px 16px;border-radius:99em;margin:auto;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostnavfeed a:hover,#recentpostnavfeed span.noactived{color:#ccc}
+#recentpostnavfeed i{font-family:fontawesome;font-style:normal}
+#recentpostnavfeed .next:hover,#recentpostnavfeed .previous:hover,#recentpostnavfeed .home:hover{background:#fff;color:#222;box-shadow:0 10px 21px rgba(0,0,0,0.15),0 6px 6px rgba(0,0,0,0.12)}
+@media screen and (max-width:993px){#recentpostsae .recentpostel{width:100%;margin:0 0 10px 0}}
+
 
 
 
