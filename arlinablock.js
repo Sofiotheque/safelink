@@ -30,4 +30,17 @@ $(document).ready(function(){$(".post-body img").parent("a:not(.no-lightbox)").e
 (function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.async=1;js.src = "https://cdn.webpushr.com/app.min.js";
 fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
 webpushr('setup',{'key':'BKQi-NfapA8nMqU7B1B5Jx5P7aRg7fLjvGZFM8B_g72teN6r4ru_3pFV3tGH3oVqsF4qLcaATsDuKZpnG0osbRs', 'integration':'popup'  });
+// audiencerun Footer fixe 
+!function f(){var b=document.createElement("script");b.async=!0;b.data-arun-z="10e6tnh82i";b.data-arun-a="1";b.data-arun-vu="%%VIEW_URL_UNESC%%";b.data-arun-cb="%%CACHEBUSTER%%";b.data-arun-pm="%%PREVIEW_MODE%%";b.data-arun-site="%%SITE%%";b.data-arun-url="%%PATTERN:url%%";b.async=!0;b.src="https://ac.audiencerun.com/j/tag.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+
+// webpushr 
+
+// webpushr 
+
+// webpushr 
+
+// webpushr 
+
+
+
 
