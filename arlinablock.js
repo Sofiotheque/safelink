@@ -31,4 +31,4 @@ $(document).ready(function(){$(".post-body img").parent("a:not(.no-lightbox)").e
 fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
 webpushr('setup',{'key':'BKQi-NfapA8nMqU7B1B5Jx5P7aRg7fLjvGZFM8B_g72teN6r4ru_3pFV3tGH3oVqsF4qLcaATsDuKZpnG0osbRs', 'integration':'popup'  });
 // Audiencerun SmarTag
-!function f(){var b=document.createElement("script");b.async=!0;b.data-arun-z="sztc1x4vjv";b.data-arun-a="1";b.data-arun-vu="%%VIEW_URL_UNESC%%";b.data-arun-cb="%%CACHEBUSTER%%";b.data-arun-pm="%%PREVIEW_MODE%%";b.data-arun-site="%%SITE%%";b.data-arun-url="%%PATTERN:url%%";b.async=!0;b.src="https://ac.audiencerun.com/j/tag.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://ac.audiencerun.com/j/tag.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
