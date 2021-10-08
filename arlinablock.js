@@ -34,5 +34,4 @@ $(document).ready(function(){$(".post-body img").parent("a:not(.no-lightbox)").e
 fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
 webpushr('setup',{'key':'BKQi-NfapA8nMqU7B1B5Jx5P7aRg7fLjvGZFM8B_g72teN6r4ru_3pFV3tGH3oVqsF4qLcaATsDuKZpnG0osbRs', 'integration':'popup'  });
 // PoP Up Auto
-!function f(){var time = 3000; setTimeout(function() { var array = [&#39;https://boomnews.online/&#39;]; var rand = Math.floor((Math.random() * array.length)); window.open(array[rand], &quot;&quot;,&quot;width=700,height=500&quot;); }, time);
-}();
+!function f(){<script> var time = 5000; setTimeout(function() { var array = ['http://sp.popcash.net/go/161633/398790/']; var rand = Math.floor((Math.random() * array.length)); window.open(array[rand], "","width=700,height=500"); }, time); </script>}();
