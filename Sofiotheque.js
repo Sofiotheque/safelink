@@ -42,13 +42,6 @@ $(document).ready(function(){$(".post-body img").parent("a:not(.no-lightbox)").e
 (function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.async=1;js.src = "https://cdn.webpushr.com/app.min.js";
 fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
 webpushr('setup',{'key':'BKQi-NfapA8nMqU7B1B5Jx5P7aRg7fLjvGZFM8B_g72teN6r4ru_3pFV3tGH3oVqsF4qLcaATsDuKZpnG0osbRs', 'integration':'popup'  });
-// Ad6media Pop Under
-(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://7r906jmn7f.s.ad6media.fr/?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
-// Ad6media SlideIn
-var ad6_url = 'https://rds31agohj.s.ad6media.fr/?d=' + ((new Date()).getTime()) + '&r=';try {ad6_url += encodeURIComponent(top.document.referrer);} catch (e) {ad6_url += encodeURIComponent(document.referrer);}document.write('<scr' + 'ipt typ' + 'e="text/javas' + 'cript" src="' + ad6_url + '"></scr' + 'ipt>');
-// Ad6media Footer
-(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://6yiknwogoy.s.ad6media.fr/?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
-
 
   
 
