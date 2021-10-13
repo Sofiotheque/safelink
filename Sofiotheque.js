@@ -26,3 +26,9 @@ var arpianLazyLoadAds=false;window.addEventListener("scroll",function(){if((docu
 var ad6_url = 'https://rds31agohj.s.ad6media.fr/?d=' + ((new Date()).getTime()) + '&r=';try {ad6_url += encodeURIComponent(top.document.referrer);} catch (e) {ad6_url += encodeURIComponent(document.referrer);}document.write('<scr' + 'ipt typ' + 'e="text/javas' + 'cript" src="' + ad6_url + '"></scr' + 'ipt>');
 // Ad6media Footer
 (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src="https://6yiknwogoy.s.ad6media.fr/?d="+(new Date).getTime()+"&r=";try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript";a.async=!0;b.parentNode.insertBefore(a,b)})();
+// 300x250-right-bottom
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://webmonetiser.com/formatjs/300x250-right-bottom.js?id=1036";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// 728x90-center-bottom
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://webmonetiser.com/formatjs/728x90-center-bottom.js?id=1036";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+// 728x90-center-top
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://webmonetiser.com/formatjs/728x90-center-top.js?id=1036";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
