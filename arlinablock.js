@@ -12,6 +12,7 @@ v86213bed48dc344c9e5ccf70162c5fff=[ function(vca97b68af07e029f4640ed675e4706dc){
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://platform-api.sharethis.com/js/sharethis.js#property=5cc5bfc44b94860012b42cb8&product=inline-share-buttons";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! Onesignal */ 
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.onesignal.com/sdks/OneSignalSDK.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+window.OneSignal = window.OneSignal || []; OneSignal.push(function() { OneSignal.init({ appId: "36ff5225-23b9-4538-a991-fb2254c98498", }); });	
 /*! Facbk Chat */
 !function f(){var b=document.createElement("script");b.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 !function f(){var b=document.createElement("script");b.src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0&appId=1148902115190529&autoLogAppEvents=1";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
