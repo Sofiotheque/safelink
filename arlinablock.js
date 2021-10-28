@@ -1,3 +1,6 @@
+/*! Adsense Auto Ads */
+!function f(){var b=document.createElement("script");var crs=document.createAttribute('crossorigin');crs.value='anonymous';b.setAttributeNode(crs);b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3943752135480739";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){if(ads[i]){(adsbygoogle = window.adsbygoogle || []).push({});}}
 /*! CSS Style */
 function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
 loadCSS("https://rawcdn.githack.com/Sofiotheque/safelink/bb878340c06b566522873ad415250970b49e3f6a/Ubuntu.css");loadCSS("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css");loadCSS("https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css");
