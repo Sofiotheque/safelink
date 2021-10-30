@@ -25,3 +25,11 @@ b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 !function f(){var b=document.createElement("script");b.async=!0;b.src="https://upgulpinon.com/1?z=4625574";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! Floating tag PropellerAds */
 (function(d,z,s){s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('osspalkiaom.com',4625573,document.createElement('script'))
+/*! Intext ClicInText */
+!function f(){var b=document.createElement("script");b.async=!0;b.src="https://tags.clickintext.net/JMJCSp6XjSTww";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+/*! PopUp Ads TheMoneytizer */
+!function f(){var b=document.createElement("script");b.async=!1;b.src="https://ads.themoneytizer.com/s/gen.js?type=39";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+!function f(){var b=document.createElement("script");b.async=!0;b.src="http://ads.themoneytizer.com/s/requestform.js?siteId=84586&formatId=39";b.onerror=function(){f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
+
+
+
