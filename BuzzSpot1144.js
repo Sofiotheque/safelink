@@ -2,8 +2,8 @@
 /*! Ad Manager */ !function f(){var b=document.createElement("script");b.async=!1;b.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
-    googletag.defineSlot(&#39;/21717051631/BuzzTOP&#39;, [[980, 120], [300, 250], [970, 66], [970, 250], [970, 90], [980, 90], [336, 280]], &#39;div-gpt-ad-1675561218911-0&#39;).addService(googletag.pubads());
-    googletag.defineSlot(&#39;/21717051631/Buzzstiky&#39;, [[728, 90], [960, 90], [750, 100], [980, 90], [970, 90], [320, 100], [950, 90]], &#39;div-gpt-ad-1675553430124-0&#39;).addService(googletag.pubads());  
+    googletag.defineSlot('/21717051631/BuzzTOP', [[980, 120], [300, 250], [970, 66], [970, 250], [970, 90], [980, 90], [336, 280]], 'div-gpt-ad-1675561218911-0').addService(googletag.pubads());
+    googletag.defineSlot('/21717051631/Buzzstiky', [[728, 90], [960, 90], [750, 100], [980, 90], [970, 90], [320, 100], [950, 90]], 'div-gpt-ad-1675553430124-0').addService(googletag.pubads());  
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
