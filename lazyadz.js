@@ -1,2 +1,0 @@
-!function(){var a=document.createElement("script"),b=document.createAttribute("data-ad-client");b.value="ca-pub-3943752135480739",a.setAttributeNode(b),a.setAttribute("crossorigin","anonymous");a.async=!1,a.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";var c=document.getElementsByTagName("head")[0];c.parentNode.insertBefore(a,c)}();
-for (var ads=document.querySelectorAll('ins.adsbygoogle'),i=0;i<ads.length;i++){if(ads[i]){(adsbygoogle = window.adsbygoogle || []).push({});}};
