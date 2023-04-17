@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".post-body img").parent("a:not(.no-lightbox)").each(function(){$(this).attr("src",$(this).find("img").attr("src")),$(this).attr("data-fancybox","postimages")}),$(".post-body img").parent("a:not(.no-lightbox)").fancybox({margin:[50,0],onComplete:function(t,o){t.scaleToActual(0,0,0),console.log(t)}})});
