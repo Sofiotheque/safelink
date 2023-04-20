@@ -1,4 +1,4 @@
-function twtparalax(Ad1) {let paralax = document.getElementsByClassName ('twtparalax')[0]; if (paralax) {let Adsp = document.querySelectorAll ('.post-body p')[Ad1 - 1]; Adsp.parentNode .insertBefore (paralax, Adsp.nextSibling)}} twtparalax(2);
+if(document.querySelectorAll(".post-body p")[1]){document.querySelectorAll(".post-body p")[1].after(document.querySelector("div#HTML399 .HTML"))}else if(document.querySelectorAll(".post-body br")[1]){document.querySelectorAll(".post-body br")[1].after(document.querySelector("div#HTML399 .HTML"))}else{document.querySelector("div#HTML399 .HTML").innerHTML="";}
 
 $(document).ready(function(){jQuery('#MBL-Ads').appendTo(jQuery('a[name="more"]'));});
 $(document).ready(function(){jQuery('#HTML339').appendTo(jQuery('.post-body LessonNote'));});
