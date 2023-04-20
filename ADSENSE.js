@@ -1,0 +1,1 @@
+!function(){var a=document.createElement("script"),b=document.createAttribute("data-ad-client");b.value="ca-pub-3943752135480739",a.setAttributeNode(b),a.async=!0,a.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";var c=document.getElementsByTagName("head")[0];c.parentNode.insertBefore(a,c)}();
