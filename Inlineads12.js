@@ -1,4 +1,4 @@
-$(document).ready(function(){jQuery('#HTML399').appendTo(jQuery('.post-body p')[5]);});
+$(document).ready(function(){jQuery('#HTML399').appendTo(jQuery('.post-body p')[4]);});
 $(document).ready(function(){jQuery('#MBL-Ads').appendTo(jQuery('a[name="more"]'));});
 $(document).ready(function(){jQuery('#HTML339').appendTo(jQuery('.post-body LessonNote'));});
 $(document).ready(function(){jQuery('#HTML335').appendTo(jQuery('.post-body MoreLink'));});
