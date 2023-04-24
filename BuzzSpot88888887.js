@@ -18,7 +18,6 @@
 /*! FacbkChat */ !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.jsdelivr.net/gh/Sofiotheque/safelink@master/MessengerChat.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}(); 
 /*! Anti Adblocker */ !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.jsdelivr.net/gh/Sofiotheque/safelink@master/AdblockerKiller.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! Anti Right Clic */ !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.jsdelivr.net/gh/Sofiotheque/safelink@master/AntiRightClic.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
-/*! Anti Boom Click */ !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.jsdelivr.net/gh/Sofiotheque/safelink@master/AntiboomClic.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 
 
 
