@@ -21,7 +21,6 @@
 /*! SlidIn */ !function f(){var b=document.createElement("script");b.async=!0;b.src="//ads.themoneytizer.com/s/gen.js?type=11";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}(); !function f(){var b=document.createElement("script");b.async=!0;b.src="//ads.themoneytizer.com/s/requestform.js?siteId=84586&formatId=11";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! InText */ !function f(){var b=document.createElement("script");b.async=!0;b.src="//ads.themoneytizer.com/s/gen.js?type=28";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}(); !function f(){var b=document.createElement("script");b.async=!0;b.src="//ads.themoneytizer.com/s/requestform.js?siteId=84586&formatId=28";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 /*! Instant */ !function f(){var b=document.createElement("script");b.src="//instant.page/5.2.0";b.type="module";b.integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
-/*! DONT */ !function f(){var b=document.createElement("script");b.async=!0;b.src="https://cdn.jsdelivr.net/gh/Sofiotheque/safelink@master/a.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
 
 
 
